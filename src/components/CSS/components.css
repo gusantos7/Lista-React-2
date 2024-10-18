@@ -1,0 +1,68 @@
+/* 1º Exercicio */
+#texto{
+    color: aqua;
+}
+
+/* 2º Exercicio */
+#paragrafo{
+    color: burlywood;
+    font-weight: 700;
+}
+
+/* 3º Exercicio */
+.listaOrdenada{
+    background-color: #ff9100;
+    height: 115px;
+    border-radius: 20px 20px 0 0 ;
+}
+.listaOrdenada h3{
+    background-color: #d5ed9c;
+    color: green;
+    border-radius: 20px 20px 0 0 ;
+}
+#lista{
+    margin-top: -10px;
+    margin-right: 40px;
+    color: #ffee00;
+    font-weight: 500;
+}
+
+/* 4º Exercicio */
+#coxinha{
+    margin-top: 5px;
+    border-radius: 0 0 20px 20px;
+    width: 500px;
+    height: 300px;
+}
+
+/* 5º Exercicio */
+.botao{
+    margin: 15px;
+}
+.botao button{
+    background-color: #6db1ec;
+}
+
+/* 6º Exercicio */
+.link{
+    margin-top: 15px;
+}
+
+/* 7º Exercicio */
+.tituloESbutitulo{
+    font-size: 13px;
+}
+.tituloESbutitulo h1{
+    margin-top: 15px;
+    margin-bottom: -5px;
+}
+
+/* 8º Exercicio */
+#bomDia{
+    font-weight: 500;
+}
+#boaNoite{
+    color: darkblue;
+    font-weight: 500;
+    color: #eaff00;
+}
